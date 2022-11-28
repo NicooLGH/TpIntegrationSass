@@ -1,13 +1,13 @@
 @font-face {
   font-family: InterExtraBold;
-  src: url(/assets/fonts/Inter-ExtraBold.ttf);
+  src: url(Inter-ExtraBold.ttf);
 }
 @font-face {
   font-family: MerriweatherLight;
-  src: url(/assets/fonts/Merriweather-Light.ttf);
+  src: url(Merriweather-Light.ttf);
 }
 body {
-  background-color: #fecfb1;
+  background-color: #a51a1a;
 }
 h1 {
   font-family: InterExtraBold;
@@ -50,7 +50,7 @@ ul {
   margin: 0;
 }
 body {
-  background: url(/assets/img/bg.jpg) fixed center/cover;
+  background: url(bg.jpg) fixed center/cover;
   margin: 0;
 }
 
